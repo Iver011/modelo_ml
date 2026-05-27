@@ -1,6 +1,6 @@
 venv/
 dataset_balanceado/
-training/PlantVillage/
+training/
 model/
 
 __pycache__/
